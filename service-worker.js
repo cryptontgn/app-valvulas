@@ -1,7 +1,7 @@
 // service-worker.js - Versión Final con Cache Busting (v14)
 
 const CACHE_NAME = 'panel-valvulas-cache-v14-final';
-const HTML_FILE = './panel_final.html';
+const HTML_FILE = './index.html';
 
 
 

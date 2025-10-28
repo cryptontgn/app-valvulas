@@ -2,7 +2,7 @@
   "name": "Panel de Válvulas",
   "short_name": "Válvulas",
   "description": "Panel de control y visor de esquemas de válvulas.",
-  "start_url": "./panel_final.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8f9fa",
   "theme_color": "#007bff",
